@@ -1,0 +1,13 @@
+{
+    "enableTrace": true,
+    "endSession": false,
+    "inputText": "What is airline_operator_name of flight_no = QR 8406",
+    "sessionState": {
+      "promptSessionAttributes": {
+        "attributeKey": "attributeValue"
+      },
+      "sessionAttributes": {
+        "attributeKey": "attributeValue"
+      }
+    }
+  }
